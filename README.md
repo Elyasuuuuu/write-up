@@ -18,12 +18,18 @@ In accordance with [TryHackMe's guidelines](https://help.tryhackme.com/), **flag
 
 | Room | Difficulty | Category |
 |------|------------|----------|
-| [Plant Photographer](thm/plant-photographer.md) | Hard | Web, SSRF, LFI, RCE |
-| [Rabbit Hole](thm/rabbit-hole.md) | Hard | Web, SQLi (second-order) |
-| [The Return of the Yeti](thm/AdventOfCyber'23-1-the-return-of-the-yeti.md) | Hard | Forensics, WiFi, RDP |
-| [Snowy ARMageddon](thm/AdventOfCyber'23-2-snowy-armageddon.md) | Hard | ARM, Web, NoSQL |
-| [Frosteau Busy with Vim](thm/AdventOfCyber'23-3-frosteau-busy-with-vim.md) | Hard | Vim, Docker escape |
-| [The Bandit Surfer](thm/AdventOfCyber'23-4-the-bandit-surfer.md) | Hard | SQLi, SSRF, privesc |
+| [RootMe](TryHackMe/rootme.md) | Easy | Web, Linux, SUID |
+| [Year of the Rabbit](TryHackMe/year-of-the-rabbit.md) | Easy | FTP, Web, sudo CVE |
+| [Juicy Details](TryHackMe/juicy-details.md) | Easy | Forensics, Log Analysis |
+| [Searchlight - IMINT](TryHackMe/searchlight-imint.md) | Easy | OSINT, IMINT/GEOINT |
+| [Basic Pentesting](TryHackMe/basic-pentesting.md) | Easy | Web, SMB, SSH, privesc |
+| [BreachBlocker Unlocker](TryHackMe/breachblocker-unlocker.md) | Hard | Web, timing attack, SMTP (AoC'25 SQ4) |
+| [Plant Photographer](TryHackMe/plant-photographer.md) | Hard | Web, SSRF, LFI, RCE |
+| [Rabbit Hole](TryHackMe/rabbit-hole.md) | Hard | Web, SQLi (second-order) |
+| [The Return of the Yeti](TryHackMe/AdventOfCyber'23-1-the-return-of-the-yeti.md) | Hard | Forensics, WiFi, RDP |
+| [Snowy ARMageddon](TryHackMe/AdventOfCyber'23-2-snowy-armageddon.md) | Hard | ARM, Web, NoSQL |
+| [Frosteau Busy with Vim](TryHackMe/AdventOfCyber'23-3-frosteau-busy-with-vim.md) | Hard | Vim, Docker escape |
+| [The Bandit Surfer](TryHackMe/AdventOfCyber'23-4-the-bandit-surfer.md) | Hard | SQLi, SSRF, privesc |
 
 ---
 
